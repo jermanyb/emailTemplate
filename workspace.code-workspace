@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../random"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Sail Chimp HTML Email Starter"
+  }
+}
